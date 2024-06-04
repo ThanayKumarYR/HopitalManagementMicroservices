@@ -1,0 +1,150 @@
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.csproj.AssemblyReference.cache
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.sourcelink.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\appsettings.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\UserHospital.exe
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\UserHospital.deps.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\UserHospital.runtimeconfig.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\UserHospital.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\UserHospital.pdb
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Dapper.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.Net.Mail.Abstractions.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.UserHospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.build.UserHospital.props
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserHospital.props
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserHospital.props
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\scopedcss\bundle\UserHospital.styles.css
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHosp.2A07E4D2.Up2Date
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\refint\UserHospital.dll
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.pdb
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\UserHospital.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\UserHospital\UserHospital\obj\Debug\net8.0\ref\UserHospital.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\appsettings.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\UserHospital.exe
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\UserHospital.deps.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\UserHospital.runtimeconfig.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\UserHospital.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\UserHospital.pdb
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Dapper.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.Net.Mail.Abstractions.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.csproj.AssemblyReference.cache
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.AssemblyInfoInputs.cache
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.AssemblyInfo.cs
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.sourcelink.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.UserHospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.build.UserHospital.props
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserHospital.props
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserHospital.props
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\scopedcss\bundle\UserHospital.styles.css
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHosp.2A07E4D2.Up2Date
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\refint\UserHospital.dll
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.pdb
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\UserHospital.genruntimeconfig.cache
+C:\Users\Thanay\Documents\Hospital management\Microservices_UserManagement\UserHospital\obj\Debug\net8.0\ref\UserHospital.dll

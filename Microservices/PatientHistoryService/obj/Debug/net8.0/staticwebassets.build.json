@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bDEvR22L9VI8TFhHcdkeyz66YpcIu0Qjrg+6QHLDfRg=",
+  "Source": "PatientHistoryService",
+  "BasePath": "_content/PatientHistoryService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

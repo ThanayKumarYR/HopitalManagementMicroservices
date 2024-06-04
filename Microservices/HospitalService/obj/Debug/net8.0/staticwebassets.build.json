@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OPvzJZf7tfy7OtEZ1OkiTi9x41qMO23oPdfp3QKuDWQ=",
+  "Source": "HospitalService",
+  "BasePath": "_content/HospitalService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

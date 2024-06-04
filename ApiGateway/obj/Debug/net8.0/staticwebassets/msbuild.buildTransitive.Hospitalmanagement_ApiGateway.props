@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hospitalmanagement_ApiGateway.props" />
+</Project>
