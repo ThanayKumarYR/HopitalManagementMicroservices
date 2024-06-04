@@ -932,11 +932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thanay\\source\\repos\\HopitalManagementSystem\\Hospitalmanagement_ApiGateway\\ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\Thanay\\source\\repos\\HopitalManagementSystem\\ApiGateway\\ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "C:\\Users\\Thanay\\source\\repos\\HopitalManagementSystem\\Hospitalmanagement_ApiGateway\\ApiGateway.csproj",
+      "projectPath": "C:\\Users\\Thanay\\source\\repos\\HopitalManagementSystem\\ApiGateway\\ApiGateway.csproj",
       "packagesPath": "C:\\Users\\Thanay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thanay\\source\\repos\\HopitalManagementSystem\\Hospitalmanagement_ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\Thanay\\source\\repos\\HopitalManagementSystem\\ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thanay\\AppData\\Roaming\\NuGet\\NuGet.Config",
