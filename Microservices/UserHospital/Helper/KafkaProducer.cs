@@ -2,7 +2,7 @@
 
 namespace UserHospital.Helper
 {
-    public class KafkaProducerConfig
+    public class KafkaProducer
     {
         public static ProducerConfig GetProducerConfig()
         {

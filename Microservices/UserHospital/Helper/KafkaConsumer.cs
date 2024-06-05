@@ -2,7 +2,7 @@
 
 namespace UserHospital.Helper
 {
-    public class KafkaConsumerConfig
+    public class KafkaConsumer
     {
         public static ConsumerConfig GetConsumerConfig()
         {

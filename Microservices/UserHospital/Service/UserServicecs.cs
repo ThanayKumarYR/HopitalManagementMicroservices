@@ -1,9 +1,11 @@
-﻿using Dapper;
+﻿using Confluent.Kafka;
+using Dapper;
 using System.Data;
 using System.Text.RegularExpressions;
 using UserHospital.Context;
 using UserHospital.Entity;
 using UserHospital.GlobalExceptions;
+using UserHospital.Helper;
 using UserHospital.Interface;
 using UserHospital.Models;
 
@@ -70,6 +72,21 @@ namespace UserHospital.Service
                 // Insert new user
                 await connection.ExecuteAsync("RegisterUser", parameters, commandType: CommandType.StoredProcedure);
             }
+
+            var registrationDetailsForPublishing = new RegistrationDetailsForPublishing(userRegModel);
+
+            // Serialize registration details to a JSON string
+            var registrationDetailsJson = Newtonsoft.Json.JsonConvert.SerializeObject(registrationDetailsForPublishing);
+
+            // Get Kafka producer configuration
+            var producerConfig = KafkaProduce.GetProducerConfig();
+
+            // Create a Kafka producer
+            KafkaProducer.produceTopic(producerConfig, registrationDetailsJson);
+
+            var consumerConfig = KafkaConsumer.GetConsumerConfig();
+
+            KafkaConsumer.consumeTopic(consumerConfig);
 
             return true;
         }
