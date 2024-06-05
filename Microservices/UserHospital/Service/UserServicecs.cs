@@ -79,7 +79,11 @@ namespace UserHospital.Service
             var registrationDetailsJson = Newtonsoft.Json.JsonConvert.SerializeObject(registrationDetailsForPublishing);
 
             // Get Kafka producer configuration
+<<<<<<< HEAD
             var producerConfig = KafkaProduce.GetProducerConfig();
+=======
+            var producerConfig = KafkaProducer.GetProducerConfig();
+>>>>>>> kafka
 
             // Create a Kafka producer
             KafkaProducer.produceTopic(producerConfig, registrationDetailsJson);
