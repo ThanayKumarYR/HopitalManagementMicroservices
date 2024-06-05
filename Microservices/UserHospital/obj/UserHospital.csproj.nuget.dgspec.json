@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[0.1.0, )"
             },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
